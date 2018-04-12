@@ -1,6 +1,6 @@
 # OnlineMovieTicketApplication
 
-Designed and Developed By: Chantal Montgomer, Emily Bao, and Yuhan Wang.
+Designed and Developed By: Chantal Montgomery, Emily Bao, and Yuhan Wang.
 
 Final Project for CISC 332 - Database Management Systems
 
