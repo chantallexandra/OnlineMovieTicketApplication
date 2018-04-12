@@ -1,5 +1,0 @@
-
-
-function noHTML($str){
-	
-}
